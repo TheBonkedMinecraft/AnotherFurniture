@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/charm/drawer/azalea",
+	"textures": {
+		"front": "everycomp:block/af/charm/drawer/azalea_front_open"
+	}
+}

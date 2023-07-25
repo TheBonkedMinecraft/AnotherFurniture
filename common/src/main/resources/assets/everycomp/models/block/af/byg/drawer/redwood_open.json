@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/redwood",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/redwood_front_open"
+	}
+}

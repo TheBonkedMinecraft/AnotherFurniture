@@ -1,0 +1,7 @@
+{
+	"parent": "another_furniture:block/template/bench_right",
+	"textures": {
+		"2": "everycomp:block/af/ecologics/bench/flowering_azalea",
+		"particle": "everycomp:block/af/ecologics/bench/flowering_azalea"
+	}
+}

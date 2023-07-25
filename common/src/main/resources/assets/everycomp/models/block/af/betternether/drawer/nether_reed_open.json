@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betternether/drawer/nether_reed",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/nether_reed_front_open"
+	}
+}

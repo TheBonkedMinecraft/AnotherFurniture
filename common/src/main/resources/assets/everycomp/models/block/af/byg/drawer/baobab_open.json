@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/baobab",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/baobab_front_open"
+	}
+}

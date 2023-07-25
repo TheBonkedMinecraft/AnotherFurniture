@@ -1,0 +1,7 @@
+{
+	"parent": "another_furniture:block/template/bench_back_left",
+	"textures": {
+		"1": "everycomp:block/af/enderscape/bench/celestial",
+		"particle": "everycomp:block/af/enderscape/bench/celestial"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/mahogany",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/mahogany_front_open"
+	}
+}

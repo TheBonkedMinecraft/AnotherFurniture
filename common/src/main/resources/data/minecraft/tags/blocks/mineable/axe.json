@@ -1,0 +1,17 @@
+{
+    "values": [
+        "#another_furniture:benches",
+		"#another_furniture:chairs",
+		"#another_furniture:drawers",
+		"#another_furniture:lamps",
+		"#another_furniture:planter_boxes",
+		"#another_furniture:shelves",
+		"#another_furniture:shutters",
+		"#another_furniture:sofas",
+		"#another_furniture:stools",
+		"#another_furniture:tables",
+		"#another_furniture:tall_stools",
+		"another_furniture:lamp_connector",
+		{"id": "#another_furniture:lattices", "required": false}
+    ]
+}

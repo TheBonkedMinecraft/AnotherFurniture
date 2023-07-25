@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair_tucked",
+    "textures": {
+        "back": "everycomp:block/af/betterend/chair/tenanea_back",
+        "bottom": "everycomp:block/af/betterend/chair/tenanea_bottom",
+        "seat": "everycomp:block/af/betterend/chair/tenanea_seat",
+        "particle": "everycomp:block/af/betterend/chair/tenanea_seat"
+    }
+}

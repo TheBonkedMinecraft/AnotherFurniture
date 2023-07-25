@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair_tucked",
+    "textures": {
+        "back": "everycomp:block/af/betternether/chair/nether_mushroom_back",
+        "bottom": "everycomp:block/af/betternether/chair/nether_mushroom_bottom",
+        "seat": "everycomp:block/af/betternether/chair/nether_mushroom_seat",
+        "particle": "everycomp:block/af/betternether/chair/nether_mushroom_seat"
+    }
+}

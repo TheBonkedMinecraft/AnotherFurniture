@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_r",
+    "textures": {
+        "top": "everycomp:block/af/betternether/shelf/wart_top",
+		"bottom": "everycomp:block/af/betternether/shelf/wart_bottom",
+        "sides": "everycomp:block/af/betternether/shelf/wart_sides",
+        "supports": "everycomp:block/af/betternether/shelf/wart_supports"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/shutter_middle",
+    "textures": {
+        "middle": "everycomp:block/af/architects_palette/shutter/twisted_middle",
+        "particle": "everycomp:block/af/architects_palette/shutter/twisted_middle"
+    }
+}

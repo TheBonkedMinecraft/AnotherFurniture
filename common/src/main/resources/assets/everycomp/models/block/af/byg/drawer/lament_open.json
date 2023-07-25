@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/lament",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/lament_front_open"
+	}
+}

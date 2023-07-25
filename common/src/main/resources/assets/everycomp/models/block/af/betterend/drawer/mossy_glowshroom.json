@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/betterend/drawer/mossy_glowshroom_front",
+		"side": "everycomp:block/af/betterend/drawer/mossy_glowshroom_side",
+		"top": "everycomp:block/af/betterend/drawer/mossy_glowshroom_top"
+	}
+}

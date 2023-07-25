@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/shutter_top",
+    "textures": {
+        "middle": "everycomp:block/af/blockus/shutter/legacy_middle",
+        "top": "everycomp:block/af/blockus/shutter/legacy_top",
+        "particle": "everycomp:block/af/blockus/shutter/legacy_top"
+    }
+}

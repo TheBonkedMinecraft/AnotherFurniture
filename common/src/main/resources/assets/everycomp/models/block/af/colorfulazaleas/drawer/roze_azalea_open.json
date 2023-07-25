@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/colorfulazaleas/drawer/roze_azalea",
+	"textures": {
+		"front": "everycomp:block/af/colorfulazaleas/drawer/roze_azalea_front_open"
+	}
+}

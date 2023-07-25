@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/witch_hazel_front",
+		"side": "everycomp:block/af/byg/drawer/witch_hazel_side",
+		"top": "everycomp:block/af/byg/drawer/witch_hazel_top"
+	}
+}

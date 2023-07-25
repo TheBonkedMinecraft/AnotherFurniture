@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_l",
+    "textures": {
+        "top": "everycomp:block/af/promenade/shelf/palm_top",
+		"bottom": "everycomp:block/af/promenade/shelf/palm_bottom",
+        "sides": "everycomp:block/af/promenade/shelf/palm_sides",
+        "supports": "everycomp:block/af/promenade/shelf/palm_supports"
+    }
+}

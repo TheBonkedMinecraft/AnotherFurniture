@@ -1,0 +1,7 @@
+{
+	"parent": "another_furniture:block/template/bench_back_right",
+	"textures": {
+		"2": "everycomp:block/af/promenade/bench/cherry_oak",
+		"particle": "everycomp:block/af/promenade/bench/cherry_oak"
+	}
+}

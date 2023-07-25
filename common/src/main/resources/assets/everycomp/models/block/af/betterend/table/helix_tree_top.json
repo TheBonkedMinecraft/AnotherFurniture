@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/table_top",
+    "textures": {
+        "top": "everycomp:block/af/betterend/table/helix_tree_top",
+		"bottom": "everycomp:block/af/betterend/table/helix_tree_bottom",
+        "sides": "everycomp:block/af/betterend/table/helix_tree_sides"
+    }
+}

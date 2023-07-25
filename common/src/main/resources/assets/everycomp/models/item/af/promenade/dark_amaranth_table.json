@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/table_full",
+    "textures": {
+        "top": "everycomp:block/af/promenade/table/dark_amaranth_top",
+		"sides": "everycomp:block/af/promenade/table/dark_amaranth_sides",
+		"bottom": "everycomp:block/af/promenade/table/dark_amaranth_bottom",
+		"supports": "everycomp:block/af/promenade/table/dark_amaranth_supports"
+    }
+}

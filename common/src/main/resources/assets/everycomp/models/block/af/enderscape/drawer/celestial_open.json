@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/enderscape/drawer/celestial",
+	"textures": {
+		"front": "everycomp:block/af/enderscape/drawer/celestial_front_open"
+	}
+}

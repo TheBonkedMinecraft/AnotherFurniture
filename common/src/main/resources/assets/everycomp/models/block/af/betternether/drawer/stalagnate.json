@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/stalagnate_front",
+		"side": "everycomp:block/af/betternether/drawer/stalagnate_side",
+		"top": "everycomp:block/af/betternether/drawer/stalagnate_top"
+	}
+}

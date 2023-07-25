@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/fir",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/fir_front_open"
+	}
+}

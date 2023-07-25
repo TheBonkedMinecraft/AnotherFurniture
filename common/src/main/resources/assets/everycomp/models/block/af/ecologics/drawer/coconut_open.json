@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/ecologics/drawer/coconut",
+	"textures": {
+		"front": "everycomp:block/af/ecologics/drawer/coconut_front_open"
+	}
+}

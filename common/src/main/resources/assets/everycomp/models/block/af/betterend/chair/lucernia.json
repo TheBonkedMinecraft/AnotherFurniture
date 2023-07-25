@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair",
+    "textures": {
+        "back": "everycomp:block/af/betterend/chair/lucernia_back",
+        "bottom": "everycomp:block/af/betterend/chair/lucernia_bottom",
+        "seat": "everycomp:block/af/betterend/chair/lucernia_seat",
+        "particle": "everycomp:block/af/betterend/chair/lucernia_seat"
+    }
+}

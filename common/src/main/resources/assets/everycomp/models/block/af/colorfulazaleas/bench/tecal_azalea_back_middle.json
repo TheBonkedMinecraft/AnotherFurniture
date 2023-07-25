@@ -1,0 +1,7 @@
+{
+	"parent": "another_furniture:block/template/bench_back_middle",
+	"textures": {
+		"2": "everycomp:block/af/colorfulazaleas/bench/tecal_azalea",
+		"particle": "everycomp:block/af/colorfulazaleas/bench/tecal_azalea"
+	}
+}

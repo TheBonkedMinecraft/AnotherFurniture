@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/holly",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/holly_front_open"
+	}
+}

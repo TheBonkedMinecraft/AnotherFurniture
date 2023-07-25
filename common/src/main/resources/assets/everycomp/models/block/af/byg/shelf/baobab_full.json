@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_full",
+    "textures": {
+        "top": "everycomp:block/af/byg/shelf/baobab_top",
+		"bottom": "everycomp:block/af/byg/shelf/baobab_bottom",
+        "sides": "everycomp:block/af/byg/shelf/baobab_sides",
+        "supports": "everycomp:block/af/byg/shelf/baobab_supports"
+    }
+}

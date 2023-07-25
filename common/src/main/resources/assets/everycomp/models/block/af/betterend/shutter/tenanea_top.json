@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/shutter_top",
+    "textures": {
+        "middle": "everycomp:block/af/betterend/shutter/tenanea_middle",
+        "top": "everycomp:block/af/betterend/shutter/tenanea_top",
+        "particle": "everycomp:block/af/betterend/shutter/tenanea_top"
+    }
+}

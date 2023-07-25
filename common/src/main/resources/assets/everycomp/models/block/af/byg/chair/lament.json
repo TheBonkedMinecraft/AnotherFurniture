@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair",
+    "textures": {
+        "back": "everycomp:block/af/byg/chair/lament_back",
+        "bottom": "everycomp:block/af/byg/chair/lament_bottom",
+        "seat": "everycomp:block/af/byg/chair/lament_seat",
+        "particle": "everycomp:block/af/byg/chair/lament_seat"
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/charm/drawer/ebony_front",
+		"side": "everycomp:block/af/charm/drawer/ebony_side",
+		"top": "everycomp:block/af/charm/drawer/ebony_top"
+	}
+}

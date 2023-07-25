@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/table_full",
+    "textures": {
+        "top": "everycomp:block/af/charm/table/azalea_top",
+		"sides": "everycomp:block/af/charm/table/azalea_sides",
+		"bottom": "everycomp:block/af/charm/table/azalea_bottom",
+		"supports": "everycomp:block/af/charm/table/azalea_supports"
+    }
+}

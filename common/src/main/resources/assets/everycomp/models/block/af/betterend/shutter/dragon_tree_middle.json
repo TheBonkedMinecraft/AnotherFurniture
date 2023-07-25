@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/shutter_middle",
+    "textures": {
+        "middle": "everycomp:block/af/betterend/shutter/dragon_tree_middle",
+        "particle": "everycomp:block/af/betterend/shutter/dragon_tree_middle"
+    }
+}

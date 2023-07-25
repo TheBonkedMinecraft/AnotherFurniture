@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/shutter_none",
+    "textures": {
+        "middle": "everycomp:block/af/charm/shutter/azalea_middle",
+        "none": "everycomp:block/af/charm/shutter/azalea_none",
+        "particle": "everycomp:block/af/charm/shutter/azalea_none"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_r",
+    "textures": {
+        "top": "everycomp:block/af/betterend/shelf/tenanea_top",
+		"bottom": "everycomp:block/af/betterend/shelf/tenanea_bottom",
+        "sides": "everycomp:block/af/betterend/shelf/tenanea_sides",
+        "supports": "everycomp:block/af/betterend/shelf/tenanea_supports"
+    }
+}

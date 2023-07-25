@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair",
+    "textures": {
+        "back": "everycomp:block/af/promenade/chair/palm_back",
+        "bottom": "everycomp:block/af/promenade/chair/palm_bottom",
+        "seat": "everycomp:block/af/promenade/chair/palm_seat",
+        "particle": "everycomp:block/af/promenade/chair/palm_seat"
+    }
+}

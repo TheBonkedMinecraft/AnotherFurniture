@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/table_full",
+    "textures": {
+        "top": "everycomp:block/af/betterend/table/jellyshroom_top",
+		"sides": "everycomp:block/af/betterend/table/jellyshroom_sides",
+		"bottom": "everycomp:block/af/betterend/table/jellyshroom_bottom",
+		"supports": "everycomp:block/af/betterend/table/jellyshroom_supports"
+    }
+}

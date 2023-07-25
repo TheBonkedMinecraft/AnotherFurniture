@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/cypress",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/cypress_front_open"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/colorfulazaleas/drawer/walnut_azalea",
+	"textures": {
+		"front": "everycomp:block/af/colorfulazaleas/drawer/walnut_azalea_front_open"
+	}
+}

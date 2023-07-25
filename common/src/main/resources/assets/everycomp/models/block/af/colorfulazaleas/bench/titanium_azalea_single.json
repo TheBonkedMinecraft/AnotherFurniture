@@ -1,0 +1,7 @@
+{
+	"parent": "another_furniture:block/template/bench_single",
+	"textures": {
+		"2": "everycomp:block/af/colorfulazaleas/bench/titanium_azalea",
+		"particle": "everycomp:block/af/colorfulazaleas/bench/titanium_azalea"
+	}
+}

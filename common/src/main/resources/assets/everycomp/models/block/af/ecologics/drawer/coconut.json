@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/ecologics/drawer/coconut_front",
+		"side": "everycomp:block/af/ecologics/drawer/coconut_side",
+		"top": "everycomp:block/af/ecologics/drawer/coconut_top"
+	}
+}

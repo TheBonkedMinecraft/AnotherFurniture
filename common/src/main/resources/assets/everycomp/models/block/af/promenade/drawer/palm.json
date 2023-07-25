@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/promenade/drawer/palm_front",
+		"side": "everycomp:block/af/promenade/drawer/palm_side",
+		"top": "everycomp:block/af/promenade/drawer/palm_top"
+	}
+}

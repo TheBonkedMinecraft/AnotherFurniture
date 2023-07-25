@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betternether/drawer/willow",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/willow_front_open"
+	}
+}

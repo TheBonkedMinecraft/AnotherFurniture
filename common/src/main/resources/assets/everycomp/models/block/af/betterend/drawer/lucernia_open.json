@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betterend/drawer/lucernia",
+	"textures": {
+		"front": "everycomp:block/af/betterend/drawer/lucernia_front_open"
+	}
+}

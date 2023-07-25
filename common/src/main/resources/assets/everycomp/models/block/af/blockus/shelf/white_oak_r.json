@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_r",
+    "textures": {
+        "top": "everycomp:block/af/blockus/shelf/white_oak_top",
+		"bottom": "everycomp:block/af/blockus/shelf/white_oak_bottom",
+        "sides": "everycomp:block/af/blockus/shelf/white_oak_sides",
+        "supports": "everycomp:block/af/blockus/shelf/white_oak_supports"
+    }
+}

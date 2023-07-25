@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/mushroom_fir_front",
+		"side": "everycomp:block/af/betternether/drawer/mushroom_fir_side",
+		"top": "everycomp:block/af/betternether/drawer/mushroom_fir_top"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betternether/drawer/nether_sakura",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/nether_sakura_front_open"
+	}
+}

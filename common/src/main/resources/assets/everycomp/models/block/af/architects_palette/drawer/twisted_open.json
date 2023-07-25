@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/architects_palette/drawer/twisted",
+	"textures": {
+		"front": "everycomp:block/af/architects_palette/drawer/twisted_front_open"
+	}
+}

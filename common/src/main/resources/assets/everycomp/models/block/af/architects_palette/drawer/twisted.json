@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/architects_palette/drawer/twisted_front",
+		"side": "everycomp:block/af/architects_palette/drawer/twisted_side",
+		"top": "everycomp:block/af/architects_palette/drawer/twisted_top"
+	}
+}

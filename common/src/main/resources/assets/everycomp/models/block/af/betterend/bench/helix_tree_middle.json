@@ -1,0 +1,7 @@
+{
+	"parent": "another_furniture:block/template/bench_middle",
+	"textures": {
+		"2": "everycomp:block/af/betterend/bench/helix_tree",
+		"particle": "everycomp:block/af/betterend/bench/helix_tree"
+	}
+}

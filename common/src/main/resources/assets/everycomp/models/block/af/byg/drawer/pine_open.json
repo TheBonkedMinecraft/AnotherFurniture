@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/pine",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/pine_front_open"
+	}
+}

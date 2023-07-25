@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/table_top",
+    "textures": {
+        "top": "everycomp:block/af/charm/table/ebony_top",
+		"bottom": "everycomp:block/af/charm/table/ebony_bottom",
+        "sides": "everycomp:block/af/charm/table/ebony_sides"
+    }
+}

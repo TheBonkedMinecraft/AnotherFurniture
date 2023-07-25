@@ -1,0 +1,124 @@
+{
+    "variants": {
+        "facing=north,attached=true,type=single": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached"
+        },
+        "facing=east,attached=true,type=single": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached",
+            "y": 90
+        },
+        "facing=south,attached=true,type=single": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached",
+            "y": 180
+        },
+        "facing=west,attached=true,type=single": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached",
+            "y": 270
+        },
+        "facing=north,attached=true,type=left": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_left"
+        },
+        "facing=east,attached=true,type=left": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_left",
+            "y": 90
+        },
+        "facing=south,attached=true,type=left": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_left",
+            "y": 180
+        },
+        "facing=west,attached=true,type=left": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_left",
+            "y": 270
+        },
+        "facing=north,attached=true,type=middle": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_middle"
+        },
+        "facing=east,attached=true,type=middle": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_middle",
+            "y": 90
+        },
+        "facing=south,attached=true,type=middle": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_middle",
+            "y": 180
+        },
+        "facing=west,attached=true,type=middle": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_middle",
+            "y": 270
+        },
+        "facing=north,attached=true,type=right": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_right"
+        },
+        "facing=east,attached=true,type=right": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_right",
+            "y": 90
+        },
+        "facing=south,attached=true,type=right": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_right",
+            "y": 180
+        },
+        "facing=west,attached=true,type=right": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_attached_right",
+            "y": 270
+        },
+        "facing=north,attached=false,type=single": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree"
+        },
+        "facing=east,attached=false,type=single": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree",
+            "y": 90
+        },
+        "facing=south,attached=false,type=single": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree",
+            "y": 180
+        },
+        "facing=west,attached=false,type=single": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree",
+            "y": 270
+        },
+        "facing=north,attached=false,type=left": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_left"
+        },
+        "facing=east,attached=false,type=left": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_left",
+            "y": 90
+        },
+        "facing=south,attached=false,type=left": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_left",
+            "y": 180
+        },
+        "facing=west,attached=false,type=left": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_left",
+            "y": 270
+        },
+        "facing=north,attached=false,type=middle": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_middle"
+        },
+        "facing=east,attached=false,type=middle": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_middle",
+            "y": 90
+        },
+        "facing=south,attached=false,type=middle": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_middle",
+            "y": 180
+        },
+        "facing=west,attached=false,type=middle": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_middle",
+            "y": 270
+        },
+        "facing=north,attached=false,type=right": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_right"
+        },
+        "facing=east,attached=false,type=right": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_right",
+            "y": 90
+        },
+        "facing=south,attached=false,type=right": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_right",
+            "y": 180
+        },
+        "facing=west,attached=false,type=right": {
+            "model": "everycomp:block/af/betterend/planter_box/dragon_tree_right",
+            "y": 270
+        }
+    }
+}

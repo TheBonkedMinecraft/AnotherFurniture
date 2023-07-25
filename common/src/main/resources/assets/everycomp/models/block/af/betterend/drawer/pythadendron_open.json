@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betterend/drawer/pythadendron",
+	"textures": {
+		"front": "everycomp:block/af/betterend/drawer/pythadendron_front_open"
+	}
+}

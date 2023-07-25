@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/shutter_bottom",
+    "textures": {
+        "middle": "everycomp:block/af/byg/shutter/pine_middle",
+        "bottom": "everycomp:block/af/byg/shutter/pine_bottom",
+        "particle": "everycomp:block/af/byg/shutter/pine_bottom"
+    }
+}

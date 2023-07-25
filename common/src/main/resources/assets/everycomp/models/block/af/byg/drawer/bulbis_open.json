@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/bulbis",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/bulbis_front_open"
+	}
+}

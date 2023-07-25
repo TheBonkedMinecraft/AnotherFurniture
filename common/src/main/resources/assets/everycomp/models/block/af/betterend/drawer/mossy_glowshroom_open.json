@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betterend/drawer/mossy_glowshroom",
+	"textures": {
+		"front": "everycomp:block/af/betterend/drawer/mossy_glowshroom_front_open"
+	}
+}

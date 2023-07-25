@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/table_leg",
+    "textures": {
+        "sides": "everycomp:block/af/enderscape/table/celestial_sides",
+		"supports": "everycomp:block/af/enderscape/table/celestial_supports"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair",
+    "textures": {
+        "back": "everycomp:block/af/byg/chair/bulbis_back",
+        "bottom": "everycomp:block/af/byg/chair/bulbis_bottom",
+        "seat": "everycomp:block/af/byg/chair/bulbis_seat",
+        "particle": "everycomp:block/af/byg/chair/bulbis_seat"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/shutter_bottom",
+    "textures": {
+        "middle": "everycomp:block/af/promenade/shutter/cherry_oak_middle",
+        "bottom": "everycomp:block/af/promenade/shutter/cherry_oak_bottom",
+        "particle": "everycomp:block/af/promenade/shutter/cherry_oak_bottom"
+    }
+}

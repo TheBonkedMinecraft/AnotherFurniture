@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_l",
+    "textures": {
+        "top": "everycomp:block/af/vinery/shelf/cherry_top",
+		"bottom": "everycomp:block/af/vinery/shelf/cherry_bottom",
+        "sides": "everycomp:block/af/vinery/shelf/cherry_sides",
+        "supports": "everycomp:block/af/vinery/shelf/cherry_supports"
+    }
+}

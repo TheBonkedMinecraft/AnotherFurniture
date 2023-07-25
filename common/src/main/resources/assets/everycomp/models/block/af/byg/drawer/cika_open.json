@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/cika",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/cika_front_open"
+	}
+}

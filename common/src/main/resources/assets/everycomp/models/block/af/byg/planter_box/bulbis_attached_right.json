@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/planter_box_attached_right",
+    "textures": {
+        "top_sides": "everycomp:block/af/byg/planter_box/bulbis_top_sides",
+		"bottom": "everycomp:block/af/byg/planter_box/bulbis_bottom",
+		"supports": "everycomp:block/af/byg/planter_box/bulbis_supports"
+    }
+}

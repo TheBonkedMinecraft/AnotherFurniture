@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/blue_enchanted",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/blue_enchanted_front_open"
+	}
+}

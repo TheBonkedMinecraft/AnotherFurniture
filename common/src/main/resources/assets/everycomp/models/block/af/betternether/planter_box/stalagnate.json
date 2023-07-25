@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/planter_box",
+    "textures": {
+		"top_sides": "everycomp:block/af/betternether/planter_box/stalagnate_top_sides",
+		"bottom": "everycomp:block/af/betternether/planter_box/stalagnate_bottom"
+    }
+}

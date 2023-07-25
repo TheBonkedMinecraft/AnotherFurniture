@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/palm",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/palm_front_open"
+	}
+}

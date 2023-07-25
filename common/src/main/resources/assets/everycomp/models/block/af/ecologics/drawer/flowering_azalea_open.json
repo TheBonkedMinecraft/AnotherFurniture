@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/ecologics/drawer/flowering_azalea",
+	"textures": {
+		"front": "everycomp:block/af/ecologics/drawer/flowering_azalea_front_open"
+	}
+}

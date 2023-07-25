@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/promenade/drawer/dark_amaranth",
+	"textures": {
+		"front": "everycomp:block/af/promenade/drawer/dark_amaranth_front_open"
+	}
+}

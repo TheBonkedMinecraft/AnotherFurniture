@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/rubeus_front",
+		"side": "everycomp:block/af/betternether/drawer/rubeus_side",
+		"top": "everycomp:block/af/betternether/drawer/rubeus_top"
+	}
+}

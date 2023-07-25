@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/promenade/drawer/cherry_oak",
+	"textures": {
+		"front": "everycomp:block/af/promenade/drawer/cherry_oak_front_open"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/blockus/drawer/white_oak",
+	"textures": {
+		"front": "everycomp:block/af/blockus/drawer/white_oak_front_open"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/promenade/drawer/palm",
+	"textures": {
+		"front": "everycomp:block/af/promenade/drawer/palm_front_open"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/blockus/drawer/legacy",
+	"textures": {
+		"front": "everycomp:block/af/blockus/drawer/legacy_front_open"
+	}
+}

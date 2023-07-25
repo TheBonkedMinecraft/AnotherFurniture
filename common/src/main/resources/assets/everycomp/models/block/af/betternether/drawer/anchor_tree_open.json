@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betternether/drawer/anchor_tree",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/anchor_tree_front_open"
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair",
+    "textures": {
+        "back": "everycomp:block/af/betterend/chair/end_lotus_back",
+        "bottom": "everycomp:block/af/betterend/chair/end_lotus_bottom",
+        "seat": "everycomp:block/af/betterend/chair/end_lotus_seat",
+        "particle": "everycomp:block/af/betterend/chair/end_lotus_seat"
+    }
+}

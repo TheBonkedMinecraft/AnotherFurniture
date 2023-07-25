@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/witch_hazel",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/witch_hazel_front_open"
+	}
+}

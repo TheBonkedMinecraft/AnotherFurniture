@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betternether/drawer/rubeus",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/rubeus_front_open"
+	}
+}

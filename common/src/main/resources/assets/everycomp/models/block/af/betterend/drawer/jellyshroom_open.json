@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betterend/drawer/jellyshroom",
+	"textures": {
+		"front": "everycomp:block/af/betterend/drawer/jellyshroom_front_open"
+	}
+}

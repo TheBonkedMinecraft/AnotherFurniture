@@ -1,0 +1,64 @@
+{
+    "variants": {
+        "facing=north,type=single": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_full"
+        },
+        "facing=east,type=single": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_full",
+            "y": 90
+        },
+        "facing=south,type=single": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_full",
+            "y": 180
+        },
+        "facing=west,type=single": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_full",
+            "y": 270
+        },
+        "facing=north,type=left": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_l"
+        },
+        "facing=east,type=left": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_l",
+            "y": 90
+        },
+        "facing=south,type=left": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_l",
+            "y": 180
+        },
+        "facing=west,type=left": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_l",
+            "y": 270
+        },
+        "facing=north,type=middle": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_top"
+        },
+        "facing=east,type=middle": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_top",
+            "y": 90
+        },
+        "facing=south,type=middle": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_top",
+            "y": 180
+        },
+        "facing=west,type=middle": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_top",
+            "y": 270
+        },
+        "facing=north,type=right": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_r"
+        },
+        "facing=east,type=right": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_r",
+            "y": 90
+        },
+        "facing=south,type=right": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_r",
+            "y": 180
+        },
+        "facing=west,type=right": {
+            "model": "everycomp:block/af/betterend/shelf/tenanea_r",
+            "y": 270
+        }
+    }
+}

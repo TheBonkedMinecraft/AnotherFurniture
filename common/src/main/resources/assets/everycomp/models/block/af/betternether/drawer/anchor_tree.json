@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/anchor_tree_front",
+		"side": "everycomp:block/af/betternether/drawer/anchor_tree_side",
+		"top": "everycomp:block/af/betternether/drawer/anchor_tree_top"
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_l",
+    "textures": {
+        "top": "everycomp:block/af/byg/shelf/sythian_top",
+		"bottom": "everycomp:block/af/byg/shelf/sythian_bottom",
+        "sides": "everycomp:block/af/byg/shelf/sythian_sides",
+        "supports": "everycomp:block/af/byg/shelf/sythian_supports"
+    }
+}

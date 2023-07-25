@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/table_leg",
+    "textures": {
+        "sides": "everycomp:block/af/ecologics/table/coconut_sides",
+		"supports": "everycomp:block/af/ecologics/table/coconut_supports"
+    }
+}

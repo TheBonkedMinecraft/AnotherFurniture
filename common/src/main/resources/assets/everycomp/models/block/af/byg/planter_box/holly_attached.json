@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/planter_box_attached",
+    "textures": {
+        "top_sides": "everycomp:block/af/byg/planter_box/holly_top_sides",
+		"bottom": "everycomp:block/af/byg/planter_box/holly_bottom",
+		"supports": "everycomp:block/af/byg/planter_box/holly_supports"
+    }
+}

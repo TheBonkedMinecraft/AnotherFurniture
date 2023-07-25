@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/planter_box",
+    "textures": {
+		"top_sides": "everycomp:block/af/betterend/planter_box/dragon_tree_top_sides",
+		"bottom": "everycomp:block/af/betterend/planter_box/dragon_tree_bottom"
+    }
+}

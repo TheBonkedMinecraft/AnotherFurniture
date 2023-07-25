@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/sythian",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/sythian_front_open"
+	}
+}

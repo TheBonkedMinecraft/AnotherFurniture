@@ -1,0 +1,6 @@
+{
+    "parent": "another_furniture:item/template/bench",
+	"textures": {
+		"all": "everycomp:block/af/colorfulazaleas/bench/walnut_azalea"
+	}
+}

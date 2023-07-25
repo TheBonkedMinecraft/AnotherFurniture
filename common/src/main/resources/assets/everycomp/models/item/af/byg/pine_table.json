@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/table_full",
+    "textures": {
+        "top": "everycomp:block/af/byg/table/pine_top",
+		"sides": "everycomp:block/af/byg/table/pine_sides",
+		"bottom": "everycomp:block/af/byg/table/pine_bottom",
+		"supports": "everycomp:block/af/byg/table/pine_supports"
+    }
+}

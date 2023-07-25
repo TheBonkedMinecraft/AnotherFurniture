@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair",
+    "textures": {
+        "back": "everycomp:block/af/betternether/chair/rubeus_back",
+        "bottom": "everycomp:block/af/betternether/chair/rubeus_bottom",
+        "seat": "everycomp:block/af/betternether/chair/rubeus_seat",
+        "particle": "everycomp:block/af/betternether/chair/rubeus_seat"
+    }
+}

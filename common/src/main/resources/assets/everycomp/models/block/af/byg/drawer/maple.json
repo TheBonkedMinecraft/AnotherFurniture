@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/maple_front",
+		"side": "everycomp:block/af/byg/drawer/maple_side",
+		"top": "everycomp:block/af/byg/drawer/maple_top"
+	}
+}

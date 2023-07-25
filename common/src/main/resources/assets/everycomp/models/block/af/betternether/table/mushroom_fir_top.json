@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/table_top",
+    "textures": {
+        "top": "everycomp:block/af/betternether/table/mushroom_fir_top",
+		"bottom": "everycomp:block/af/betternether/table/mushroom_fir_bottom",
+        "sides": "everycomp:block/af/betternether/table/mushroom_fir_sides"
+    }
+}

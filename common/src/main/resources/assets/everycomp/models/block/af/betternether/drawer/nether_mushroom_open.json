@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betternether/drawer/nether_mushroom",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/nether_mushroom_front_open"
+	}
+}

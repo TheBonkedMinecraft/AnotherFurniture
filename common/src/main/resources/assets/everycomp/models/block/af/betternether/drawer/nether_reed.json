@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/nether_reed_front",
+		"side": "everycomp:block/af/betternether/drawer/nether_reed_side",
+		"top": "everycomp:block/af/betternether/drawer/nether_reed_top"
+	}
+}

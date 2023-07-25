@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair_tucked",
+    "textures": {
+        "back": "everycomp:block/af/byg/chair/zelkova_back",
+        "bottom": "everycomp:block/af/byg/chair/zelkova_bottom",
+        "seat": "everycomp:block/af/byg/chair/zelkova_seat",
+        "particle": "everycomp:block/af/byg/chair/zelkova_seat"
+    }
+}

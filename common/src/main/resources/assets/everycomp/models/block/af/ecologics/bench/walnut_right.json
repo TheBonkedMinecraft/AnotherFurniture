@@ -1,0 +1,7 @@
+{
+	"parent": "another_furniture:block/template/bench_right",
+	"textures": {
+		"2": "everycomp:block/af/ecologics/bench/walnut",
+		"particle": "everycomp:block/af/ecologics/bench/walnut"
+	}
+}

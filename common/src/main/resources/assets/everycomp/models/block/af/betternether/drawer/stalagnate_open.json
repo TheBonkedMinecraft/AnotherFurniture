@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betternether/drawer/stalagnate",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/stalagnate_front_open"
+	}
+}

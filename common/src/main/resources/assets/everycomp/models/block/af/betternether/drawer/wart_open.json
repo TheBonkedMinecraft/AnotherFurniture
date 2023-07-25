@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betternether/drawer/wart",
+	"textures": {
+		"front": "everycomp:block/af/betternether/drawer/wart_front_open"
+	}
+}

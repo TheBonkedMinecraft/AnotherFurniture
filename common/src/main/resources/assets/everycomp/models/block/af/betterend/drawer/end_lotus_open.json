@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betterend/drawer/end_lotus",
+	"textures": {
+		"front": "everycomp:block/af/betterend/drawer/end_lotus_front_open"
+	}
+}

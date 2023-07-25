@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_full",
+    "textures": {
+        "top": "everycomp:block/af/blockus/shelf/legacy_top",
+		"bottom": "everycomp:block/af/blockus/shelf/legacy_bottom",
+        "sides": "everycomp:block/af/blockus/shelf/legacy_sides",
+        "supports": "everycomp:block/af/blockus/shelf/legacy_supports"
+    }
+}

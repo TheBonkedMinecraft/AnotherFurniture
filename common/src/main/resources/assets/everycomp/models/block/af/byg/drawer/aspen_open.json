@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/aspen",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/aspen_front_open"
+	}
+}

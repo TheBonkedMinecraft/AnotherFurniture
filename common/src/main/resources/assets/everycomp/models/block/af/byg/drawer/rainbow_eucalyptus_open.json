@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/rainbow_eucalyptus",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/rainbow_eucalyptus_front_open"
+	}
+}

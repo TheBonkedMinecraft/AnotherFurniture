@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betterend/drawer/lacugrove",
+	"textures": {
+		"front": "everycomp:block/af/betterend/drawer/lacugrove_front_open"
+	}
+}

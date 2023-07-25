@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_full",
+    "textures": {
+        "top": "everycomp:block/af/byg/shelf/witch_hazel_top",
+		"bottom": "everycomp:block/af/byg/shelf/witch_hazel_bottom",
+        "sides": "everycomp:block/af/byg/shelf/witch_hazel_sides",
+        "supports": "everycomp:block/af/byg/shelf/witch_hazel_supports"
+    }
+}

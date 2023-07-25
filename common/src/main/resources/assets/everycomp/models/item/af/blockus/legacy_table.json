@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/table_full",
+    "textures": {
+        "top": "everycomp:block/af/blockus/table/legacy_top",
+		"sides": "everycomp:block/af/blockus/table/legacy_sides",
+		"bottom": "everycomp:block/af/blockus/table/legacy_bottom",
+		"supports": "everycomp:block/af/blockus/table/legacy_supports"
+    }
+}

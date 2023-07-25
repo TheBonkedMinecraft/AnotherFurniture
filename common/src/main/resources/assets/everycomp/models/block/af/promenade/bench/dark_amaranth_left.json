@@ -1,0 +1,7 @@
+{
+	"parent": "another_furniture:block/template/bench_left",
+	"textures": {
+		"2": "everycomp:block/af/promenade/bench/dark_amaranth",
+		"particle": "everycomp:block/af/promenade/bench/dark_amaranth"
+	}
+}

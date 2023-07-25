@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/table_leg",
+    "textures": {
+        "sides": "everycomp:block/af/betterend/table/dragon_tree_sides",
+		"supports": "everycomp:block/af/betterend/table/dragon_tree_supports"
+    }
+}

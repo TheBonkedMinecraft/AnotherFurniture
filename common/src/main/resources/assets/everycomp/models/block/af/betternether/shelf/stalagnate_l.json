@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_l",
+    "textures": {
+        "top": "everycomp:block/af/betternether/shelf/stalagnate_top",
+		"bottom": "everycomp:block/af/betternether/shelf/stalagnate_bottom",
+        "sides": "everycomp:block/af/betternether/shelf/stalagnate_sides",
+        "supports": "everycomp:block/af/betternether/shelf/stalagnate_supports"
+    }
+}

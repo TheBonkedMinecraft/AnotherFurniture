@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "facing=north,tucked=false": {
+            "model": "everycomp:block/af/betternether/chair/nether_reed"
+        },
+        "facing=east,tucked=false": {
+            "model": "everycomp:block/af/betternether/chair/nether_reed",
+            "y": 90
+        },
+        "facing=south,tucked=false": {
+            "model": "everycomp:block/af/betternether/chair/nether_reed",
+            "y": 180
+        },
+        "facing=west,tucked=false": {
+            "model": "everycomp:block/af/betternether/chair/nether_reed",
+            "y": 270
+        },
+        "facing=north,tucked=true": {
+            "model": "everycomp:block/af/betternether/chair/nether_reed_tucked"
+        },
+        "facing=east,tucked=true": {
+            "model": "everycomp:block/af/betternether/chair/nether_reed_tucked",
+            "y": 90
+        },
+        "facing=south,tucked=true": {
+            "model": "everycomp:block/af/betternether/chair/nether_reed_tucked",
+            "y": 180
+        },
+        "facing=west,tucked=true": {
+            "model": "everycomp:block/af/betternether/chair/nether_reed_tucked",
+            "y": 270
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair_tucked",
+    "textures": {
+        "back": "everycomp:block/af/blockus/chair/white_oak_back",
+        "bottom": "everycomp:block/af/blockus/chair/white_oak_bottom",
+        "seat": "everycomp:block/af/blockus/chair/white_oak_seat",
+        "particle": "everycomp:block/af/blockus/chair/white_oak_seat"
+    }
+}

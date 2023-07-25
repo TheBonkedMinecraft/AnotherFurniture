@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/table_full",
+    "textures": {
+        "top": "everycomp:block/af/blockus/table/white_oak_top",
+		"sides": "everycomp:block/af/blockus/table/white_oak_sides",
+		"bottom": "everycomp:block/af/blockus/table/white_oak_bottom",
+		"supports": "everycomp:block/af/blockus/table/white_oak_supports"
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betterend/drawer/umbrella_tree",
+	"textures": {
+		"front": "everycomp:block/af/betterend/drawer/umbrella_tree_front_open"
+	}
+}

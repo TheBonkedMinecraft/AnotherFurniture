@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"front": "everycomp:block/af/enderscape/drawer/celestial_front",
+		"side": "everycomp:block/af/enderscape/drawer/celestial_side",
+		"top": "everycomp:block/af/enderscape/drawer/celestial_top"
+	}
+}

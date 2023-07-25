@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/charm/drawer/ebony",
+	"textures": {
+		"front": "everycomp:block/af/charm/drawer/ebony_front_open"
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/shelf_top",
+    "textures": {
+        "top": "everycomp:block/af/charm/shelf/azalea_top",
+		"bottom": "everycomp:block/af/charm/shelf/azalea_bottom",
+        "sides": "everycomp:block/af/charm/shelf/azalea_sides"
+    }
+}

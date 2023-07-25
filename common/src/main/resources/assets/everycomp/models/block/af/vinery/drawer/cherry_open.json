@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/vinery/drawer/cherry",
+	"textures": {
+		"front": "everycomp:block/af/vinery/drawer/cherry_front_open"
+	}
+}

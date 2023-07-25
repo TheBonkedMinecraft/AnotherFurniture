@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/shelf_l",
+    "textures": {
+        "top": "everycomp:block/af/betternether/shelf/nether_reed_top",
+		"bottom": "everycomp:block/af/betternether/shelf/nether_reed_bottom",
+        "sides": "everycomp:block/af/betternether/shelf/nether_reed_sides",
+        "supports": "everycomp:block/af/betternether/shelf/nether_reed_supports"
+    }
+}

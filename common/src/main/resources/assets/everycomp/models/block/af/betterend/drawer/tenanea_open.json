@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/betterend/drawer/tenanea",
+	"textures": {
+		"front": "everycomp:block/af/betterend/drawer/tenanea_front_open"
+	}
+}

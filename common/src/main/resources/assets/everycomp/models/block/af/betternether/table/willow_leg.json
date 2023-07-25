@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/table_leg",
+    "textures": {
+        "sides": "everycomp:block/af/betternether/table/willow_sides",
+		"supports": "everycomp:block/af/betternether/table/willow_supports"
+    }
+}

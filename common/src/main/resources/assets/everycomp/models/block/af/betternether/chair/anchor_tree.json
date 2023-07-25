@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair",
+    "textures": {
+        "back": "everycomp:block/af/betternether/chair/anchor_tree_back",
+        "bottom": "everycomp:block/af/betternether/chair/anchor_tree_bottom",
+        "seat": "everycomp:block/af/betternether/chair/anchor_tree_seat",
+        "particle": "everycomp:block/af/betternether/chair/anchor_tree_seat"
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/skyris",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/skyris_front_open"
+	}
+}

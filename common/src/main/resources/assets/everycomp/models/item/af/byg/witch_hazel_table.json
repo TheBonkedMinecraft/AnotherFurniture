@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/table_full",
+    "textures": {
+        "top": "everycomp:block/af/byg/table/witch_hazel_top",
+		"sides": "everycomp:block/af/byg/table/witch_hazel_sides",
+		"bottom": "everycomp:block/af/byg/table/witch_hazel_bottom",
+		"supports": "everycomp:block/af/byg/table/witch_hazel_supports"
+    }
+}

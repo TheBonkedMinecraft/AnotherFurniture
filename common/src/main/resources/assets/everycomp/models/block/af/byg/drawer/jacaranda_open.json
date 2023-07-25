@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/jacaranda",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/jacaranda_front_open"
+	}
+}

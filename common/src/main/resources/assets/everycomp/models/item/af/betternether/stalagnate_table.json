@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/table_full",
+    "textures": {
+        "top": "everycomp:block/af/betternether/table/stalagnate_top",
+		"sides": "everycomp:block/af/betternether/table/stalagnate_sides",
+		"bottom": "everycomp:block/af/betternether/table/stalagnate_bottom",
+		"supports": "everycomp:block/af/betternether/table/stalagnate_supports"
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/imparius",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/imparius_front_open"
+	}
+}

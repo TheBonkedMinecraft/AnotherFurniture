@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair",
+    "textures": {
+        "back": "everycomp:block/af/betterend/chair/mossy_glowshroom_back",
+        "bottom": "everycomp:block/af/betterend/chair/mossy_glowshroom_bottom",
+        "seat": "everycomp:block/af/betterend/chair/mossy_glowshroom_seat",
+        "particle": "everycomp:block/af/betterend/chair/mossy_glowshroom_seat"
+    }
+}

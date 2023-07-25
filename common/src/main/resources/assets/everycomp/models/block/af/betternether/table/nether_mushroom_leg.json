@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/table_leg",
+    "textures": {
+        "sides": "everycomp:block/af/betternether/table/nether_mushroom_sides",
+		"supports": "everycomp:block/af/betternether/table/nether_mushroom_supports"
+    }
+}

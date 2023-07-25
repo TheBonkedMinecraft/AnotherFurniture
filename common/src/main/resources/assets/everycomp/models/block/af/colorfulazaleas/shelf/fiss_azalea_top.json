@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/shelf_top",
+    "textures": {
+        "top": "everycomp:block/af/colorfulazaleas/shelf/fiss_azalea_top",
+		"bottom": "everycomp:block/af/colorfulazaleas/shelf/fiss_azalea_bottom",
+        "sides": "everycomp:block/af/colorfulazaleas/shelf/fiss_azalea_sides"
+    }
+}

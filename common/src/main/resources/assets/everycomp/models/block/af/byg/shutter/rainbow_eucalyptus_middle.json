@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/shutter_middle",
+    "textures": {
+        "middle": "everycomp:block/af/byg/shutter/rainbow_eucalyptus_middle",
+        "particle": "everycomp:block/af/byg/shutter/rainbow_eucalyptus_middle"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "another_furniture:block/template/chair_tucked",
+    "textures": {
+        "back": "everycomp:block/af/promenade/chair/dark_amaranth_back",
+        "bottom": "everycomp:block/af/promenade/chair/dark_amaranth_bottom",
+        "seat": "everycomp:block/af/promenade/chair/dark_amaranth_seat",
+        "particle": "everycomp:block/af/promenade/chair/dark_amaranth_seat"
+    }
+}

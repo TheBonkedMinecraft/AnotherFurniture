@@ -1,0 +1,7 @@
+{
+    "parent": "another_furniture:block/template/table_leg",
+    "textures": {
+        "sides": "everycomp:block/af/colorfulazaleas/table/roze_azalea_sides",
+		"supports": "everycomp:block/af/colorfulazaleas/table/roze_azalea_supports"
+    }
+}

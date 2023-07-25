@@ -1,0 +1,6 @@
+{
+	"parent": "everycomp:block/af/byg/drawer/willow",
+	"textures": {
+		"front": "everycomp:block/af/byg/drawer/willow_front_open"
+	}
+}

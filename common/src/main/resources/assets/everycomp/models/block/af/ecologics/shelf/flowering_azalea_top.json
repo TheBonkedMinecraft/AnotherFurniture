@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/shelf_top",
+    "textures": {
+        "top": "everycomp:block/af/ecologics/shelf/flowering_azalea_top",
+		"bottom": "everycomp:block/af/ecologics/shelf/flowering_azalea_bottom",
+        "sides": "everycomp:block/af/ecologics/shelf/flowering_azalea_sides"
+    }
+}
