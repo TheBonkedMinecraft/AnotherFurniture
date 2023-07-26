@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "planter_boxes",
+  "pattern": [
+    "SDS",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "blockus:legacy_planks"
+    },
+    "S": {
+      "item": "minecraft:oak_slab"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/blockus/legacy_planter_box",
+    "count": 3
+  }
+}

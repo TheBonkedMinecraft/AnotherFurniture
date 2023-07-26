@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shelves",
+  "pattern": [
+    "###",
+    "/  "
+  ],
+  "key": {
+    "#": {
+      "item": "enderscape:celestial_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/enderscape/celestial_shelf",
+    "count": 3
+  }
+}

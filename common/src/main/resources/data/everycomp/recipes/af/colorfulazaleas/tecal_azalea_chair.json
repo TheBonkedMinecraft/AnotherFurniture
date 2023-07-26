@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chairs",
+  "pattern": [
+    "# ",
+    "##",
+    "//"
+  ],
+  "key": {
+    "#": {
+      "item": "colorfulazaleas:tecal_azalea_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/colorfulazaleas/tecal_azalea_chair",
+    "count": 3
+  }
+}

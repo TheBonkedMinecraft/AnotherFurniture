@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "planter_boxes",
+  "pattern": [
+    "SDS",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:white_mangrove_planks"
+    },
+    "S": {
+      "item": "byg:white_mangrove_slab"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/byg/white_mangrove_planter_box",
+    "count": 3
+  }
+}

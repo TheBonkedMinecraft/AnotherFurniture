@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "planter_boxes",
+  "pattern": [
+    "SDS",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:redwood_planks"
+    },
+    "S": {
+      "item": "byg:redwood_slab"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/byg/redwood_planter_box",
+    "count": 3
+  }
+}

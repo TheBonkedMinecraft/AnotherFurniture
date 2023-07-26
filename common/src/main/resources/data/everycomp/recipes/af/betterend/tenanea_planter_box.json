@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "planter_boxes",
+  "pattern": [
+    "SDS",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:tenanea_planks"
+    },
+    "S": {
+      "item": "betterend:tenanea_slab"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/tenanea_planter_box",
+    "count": 3
+  }
+}

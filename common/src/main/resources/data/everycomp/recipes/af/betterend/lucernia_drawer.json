@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "drawers",
+  "pattern": [
+    "###",
+    "S/S",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:lucernia_planks"
+    },
+    "S": {
+      "item": "betterend:lucernia_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/lucernia_drawer",
+    "count": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "planter_boxes",
+  "pattern": [
+    "SDS",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "colorfulazaleas:tecal_azalea_planks"
+    },
+    "S": {
+      "item": "colorfulazaleas:tecal_azalea_slab"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/colorfulazaleas/tecal_azalea_planter_box",
+    "count": 3
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "drawers",
+  "pattern": [
+    "###",
+    "S/S",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:jellyshroom_planks"
+    },
+    "S": {
+      "item": "betterend:jellyshroom_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/jellyshroom_drawer",
+    "count": 3
+  }
+}

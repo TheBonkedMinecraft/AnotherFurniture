@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "drawers",
+  "pattern": [
+    "###",
+    "S/S",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:lacugrove_planks"
+    },
+    "S": {
+      "item": "betterend:lacugrove_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/lacugrove_drawer",
+    "count": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chairs",
+  "pattern": [
+    "# ",
+    "##",
+    "//"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:dragon_tree_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/dragon_tree_chair",
+    "count": 3
+  }
+}

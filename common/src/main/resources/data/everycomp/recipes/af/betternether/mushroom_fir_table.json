@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tables",
+  "pattern": [
+    "###",
+    "/ /"
+  ],
+  "key": {
+    "#": {
+      "item": "betternether:mushroom_fir_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betternether/mushroom_fir_table",
+    "count": 3
+  }
+}

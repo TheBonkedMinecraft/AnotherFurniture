@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chairs",
+  "pattern": [
+    "# ",
+    "##",
+    "//"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:blue_enchanted_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/byg/blue_enchanted_chair",
+    "count": 3
+  }
+}

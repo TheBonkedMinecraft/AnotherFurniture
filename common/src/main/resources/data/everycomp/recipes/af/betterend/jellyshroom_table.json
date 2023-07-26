@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tables",
+  "pattern": [
+    "###",
+    "/ /"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:jellyshroom_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/jellyshroom_table",
+    "count": 3
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "drawers",
+  "pattern": [
+    "###",
+    "S/S",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:lament_planks"
+    },
+    "S": {
+      "item": "byg:lament_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/byg/lament_drawer",
+    "count": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "benches",
+  "pattern": [
+    "/  ",
+    "SSS",
+    "/ /"
+  ],
+  "key": {
+    "S": {
+      "item": "betternether:nether_sakura_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betternether/nether_sakura_bench",
+    "count": 3
+  }
+}

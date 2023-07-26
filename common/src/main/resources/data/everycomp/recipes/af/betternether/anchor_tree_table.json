@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tables",
+  "pattern": [
+    "###",
+    "/ /"
+  ],
+  "key": {
+    "#": {
+      "item": "betternether:anchor_tree_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betternether/anchor_tree_table",
+    "count": 3
+  }
+}

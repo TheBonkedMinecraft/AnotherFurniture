@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "drawers",
+  "pattern": [
+    "###",
+    "S/S",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:blue_enchanted_planks"
+    },
+    "S": {
+      "item": "byg:blue_enchanted_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/byg/blue_enchanted_drawer",
+    "count": 3
+  }
+}

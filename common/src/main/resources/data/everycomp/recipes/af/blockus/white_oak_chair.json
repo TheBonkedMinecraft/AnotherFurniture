@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chairs",
+  "pattern": [
+    "# ",
+    "##",
+    "//"
+  ],
+  "key": {
+    "#": {
+      "item": "blockus:white_oak_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/blockus/white_oak_chair",
+    "count": 3
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tables",
+  "pattern": [
+    "###",
+    "/ /"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:willow_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/byg/willow_table",
+    "count": 3
+  }
+}

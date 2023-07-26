@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "planter_boxes",
+  "pattern": [
+    "SDS",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betternether:stalagnate_planks"
+    },
+    "S": {
+      "item": "betternether:stalagnate_slab"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betternether/stalagnate_planter_box",
+    "count": 3
+  }
+}

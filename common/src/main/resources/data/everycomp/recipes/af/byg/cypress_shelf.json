@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shelves",
+  "pattern": [
+    "###",
+    "/  "
+  ],
+  "key": {
+    "#": {
+      "item": "byg:cypress_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/byg/cypress_shelf",
+    "count": 3
+  }
+}

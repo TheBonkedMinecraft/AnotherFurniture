@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shelves",
+  "pattern": [
+    "###",
+    "/  "
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:pythadendron_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/pythadendron_shelf",
+    "count": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "benches",
+  "pattern": [
+    "/  ",
+    "SSS",
+    "/ /"
+  ],
+  "key": {
+    "S": {
+      "item": "blockus:white_oak_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/blockus/white_oak_bench",
+    "count": 3
+  }
+}

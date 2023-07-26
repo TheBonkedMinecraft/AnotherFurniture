@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chairs",
+  "pattern": [
+    "# ",
+    "##",
+    "//"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:pythadendron_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/pythadendron_chair",
+    "count": 3
+  }
+}

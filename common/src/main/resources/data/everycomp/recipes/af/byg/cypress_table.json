@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tables",
+  "pattern": [
+    "###",
+    "/ /"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:cypress_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/byg/cypress_table",
+    "count": 3
+  }
+}

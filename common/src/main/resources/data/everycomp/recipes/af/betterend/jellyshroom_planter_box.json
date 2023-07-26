@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "planter_boxes",
+  "pattern": [
+    "SDS",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:jellyshroom_planks"
+    },
+    "S": {
+      "item": "betterend:jellyshroom_slab"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/jellyshroom_planter_box",
+    "count": 3
+  }
+}

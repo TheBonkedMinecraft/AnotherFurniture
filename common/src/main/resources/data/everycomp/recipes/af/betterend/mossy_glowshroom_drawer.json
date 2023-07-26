@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "drawers",
+  "pattern": [
+    "###",
+    "S/S",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:mossy_glowshroom_planks"
+    },
+    "S": {
+      "item": "betterend:mossy_glowshroom_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/mossy_glowshroom_drawer",
+    "count": 3
+  }
+}

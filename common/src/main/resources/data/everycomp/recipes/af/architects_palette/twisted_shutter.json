@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shutters",
+  "pattern": [
+    "SS",
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "architects_palette:twisted_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/architects_palette/twisted_shutter",
+    "count": 4
+  }
+}

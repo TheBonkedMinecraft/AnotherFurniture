@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "drawers",
+  "pattern": [
+    "###",
+    "S/S",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    "S": {
+      "item": "byg:rainbow_eucalyptus_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/byg/rainbow_eucalyptus_drawer",
+    "count": 3
+  }
+}

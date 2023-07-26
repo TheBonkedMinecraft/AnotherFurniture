@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shutters",
+  "pattern": [
+    "SS",
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "ecologics:coconut_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/ecologics/coconut_shutter",
+    "count": 4
+  }
+}

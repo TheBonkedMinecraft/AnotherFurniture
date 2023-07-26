@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "planter_boxes",
+  "pattern": [
+    "SDS",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterend:pythadendron_planks"
+    },
+    "S": {
+      "item": "betterend:pythadendron_slab"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betterend/pythadendron_planter_box",
+    "count": 3
+  }
+}

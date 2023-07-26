@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shutters",
+  "pattern": [
+    "SS",
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "betternether:rubeus_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/betternether/rubeus_shutter",
+    "count": 4
+  }
+}

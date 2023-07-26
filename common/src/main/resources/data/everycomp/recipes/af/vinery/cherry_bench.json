@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "benches",
+  "pattern": [
+    "/  ",
+    "SSS",
+    "/ /"
+  ],
+  "key": {
+    "S": {
+      "item": "vinery:cherry_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:af/vinery/cherry_bench",
+    "count": 3
+  }
+}
